@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dd6ayst1x02x2q2q?svg=true)](https://ci.appveyor.com/project/KseniiaVv/cardalfa)
